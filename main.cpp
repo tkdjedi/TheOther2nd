@@ -1,4 +1,4 @@
-int mainfunction() 
+int mymain()
 {
-
+    
 }
